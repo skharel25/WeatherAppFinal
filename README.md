@@ -3,6 +3,7 @@
 This is a weather app created using material design that is available for both IOS and Android. This version of the app has additional features from the previous version. This version adds a poll feature at allows users to vote on whether they think the weather is accurate or not and it also adds a live radar weather map
 that the users can view.
 Youtube Link with app demo: https://youtu.be/Ual9ysxLohI
+
 */
 Overview of the App:
 When you first launch the app, you are presented with a sign in screen. From there you have the option to go to the sign-up page to register your account
