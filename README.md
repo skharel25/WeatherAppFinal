@@ -1,6 +1,6 @@
 # WeatherAppFinal
 
-This is a weather app created using material design that is available for both IOS and Android. This version of the app has additional features from the previous version. This version adds a poll feature at allows users to vote on whether they think the weather is accurate or not and it also adds a live radar weather map
+This is a weather app created using material design that is available for both IOS and Android. This version of the app has additional features from the previous version. It adds a poll feature which allows users to vote on whether they think the weather is accurate or not and it also adds a live radar weather map
 that the users can view.
 Youtube Link with app demo: https://youtu.be/Ual9ysxLohI
 
@@ -13,7 +13,7 @@ this page including customization, pictures etc. The weather page is where the w
 on adding more features and polish to this page as well.
 
 Development: 
-All the research, UI Design, backend development and polishing for this app was done by me as the sole member of the group and I am really happy with 
+All the research, UI Design, backend development and polishing for this app was done by me and I am really happy with 
 how the app is shaping up. From a designer’s perspective I think I have room to improve because I hadn’t done any development using Flutter prior to taking 
 this course. I am glad I took it because I think Flutter is a great platform to use to write mobile apps, but I still have room to improve my UI design 
 skills and I think that will come with more experience with using Flutter. When it comes to development a lot of my code from earlier in the class came in 
