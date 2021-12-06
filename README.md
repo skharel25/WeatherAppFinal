@@ -13,7 +13,7 @@ on adding more features and polish to this page as well.
 
 Development: 
 All the research, UI Design, backend development and polishing for this app was done by me and I am really happy with 
-how the app is shaping up. From a designer’s perspective I think I have room to improve because I hadn’t done any development using Flutter prior to taking 
+how the app is shaping up. From a designer’s perspective, I think I have room to improve because I hadn’t done any development using Flutter prior to taking 
 this course. I am glad I took it because I think Flutter is a great platform to use to write mobile apps, but I still have room to improve my UI design 
 skills and I think that will come with more experience with using Flutter. When it comes to development a lot of my code from earlier in the class came in 
 useful because I had already done the implementation for authentication and some UI design, and I used code from that for this app. 
